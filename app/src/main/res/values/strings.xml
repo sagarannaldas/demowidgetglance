@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">DemoWidgetGlance</string>
+    <string name="widget_description">Demo widget glance</string>
+    <string name="image_description">Image view</string>
 </resources>
